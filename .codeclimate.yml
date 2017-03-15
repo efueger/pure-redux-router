@@ -13,11 +13,11 @@ engines:
     enabled: true
     config:
       config: .eslintrc.js
-    checks:
-      import/no-unresolved:
-        enabled: false
-      import/extensions:
-        enabled: false
+#    checks:
+#      import/no-unresolved:
+#        enabled: false
+#      import/extensions:
+#        enabled: false
 
 ratings:
    paths:
